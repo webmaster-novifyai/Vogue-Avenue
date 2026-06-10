@@ -151,8 +151,24 @@ a {
 /* ==========================================================================
    3. HERO BANNER DESIGN
    ========================================================================== */
-.category-hero {
-    border-bottom: 1px solid var(--border-color);
+/* Custom links inside the Hero/Category sections to ensure clear visibility */
+.category-hero a,
+.hero-links a {
+    color: var(--text-color) !important;
+    font-family: var(--font-clean);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    border-bottom: 1px solid var(--text-color);
+    padding-bottom: 4px;
+    margin: 0 15px;
+}
+
+.category-hero a:hover,
+.hero-links a:hover {
+    color: var(--gold-primary) !important;
+    border-color: var(--gold-primary);
 }
 
 .section-title {
