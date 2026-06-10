@@ -73,7 +73,12 @@ a {
     text-transform: uppercase;
     color: var(--text-light);
 }
-
+.logo-img {
+    height: 40px; /* Adjust this height to fit your navbar perfectly */
+    width: auto;  /* Keeps the aspect ratio intact */
+    vertical-align: middle; /* Aligns the image nicely with the text */
+    margin-right: 10px;    /* Adds a little space between the logo and the text */
+}
 .logo a:hover {
     color: var(--gold-primary);
 }
