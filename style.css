@@ -154,13 +154,13 @@ a {
 /* Custom links inside the Hero/Category sections to ensure clear visibility */
 .category-hero a,
 .hero-links a {
-    color: var(--text-color) !important;
+    color: var(#ffffff) !important;
     font-family: var(--font-clean);
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 600;
-    border-bottom: 1px solid var(--text-color);
+    border-bottom: 1px solid var(#ffffff);
     padding-bottom: 4px;
     margin: 0 15px;
 }
