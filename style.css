@@ -2,12 +2,13 @@
    1. DESIGN SYSTEM VARIABLES & ROOT ARCHITECTURE
    ========================================================================== */
 :root {
-    --bg-primary: #0a0a0a;
-    --bg-secondary: #121212;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f9f9f9;
     --gold-primary: #d4af37;
     --gold-hover: #f3e5ab;
     --text-light: #ffffff;
-    --text-muted: #a0a0a0;
+   --text-color: #111111;        /* Dark charcoal/black for text */
+    --text-muted: #666666;        /* Muted gray for subtitles */
     --border-color: #222222;
     --font-luxury: 'Didot', 'Bodoni MT', 'Cinzel', 'Playfair Display', serif;
     --font-clean: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
