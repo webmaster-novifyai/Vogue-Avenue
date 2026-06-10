@@ -8,7 +8,7 @@
     --gold-hover: #b8921e;           /* Deepened gold for clear visibility on white hovers */
     --text-color: #111111;           /* Deep charcoal/black for primary text readability */
     --text-muted: #767676;           /* Balanced slate gray for clean secondary text */
-    --border-color: #e5e5e5;         /* Muted fine line border to replace heavy dark bounds */
+    --border-color: #ffffff;         /* Muted fine line border to replace heavy dark bounds */
     --font-luxury: 'Didot', 'Bodoni MT', 'Cinzel', 'Playfair Display', serif;
     --font-clean: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
 }
